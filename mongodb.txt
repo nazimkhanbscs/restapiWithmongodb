@@ -1,0 +1,7 @@
+projectName: MongoWithNode
+
+userName: dbUser
+pass: dbUser
+
+
+mongodb+srv://dbUser:dbUser@cluster0.bydfo.mongodb.net/<dbname>?retryWrites=true&w=majority
